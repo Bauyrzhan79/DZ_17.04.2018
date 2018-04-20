@@ -143,6 +143,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Variant_1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Variant_1.h" />
